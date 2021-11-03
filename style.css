@@ -24,12 +24,13 @@ p {
   color: #402218;
 }
 button {
-  border-radius: 12px;
   border: none;
   padding: 15px 32px;
   text-align: center;
-  background-color: #402218;
-  color: aliceblue;
+  color: #402218;
   text-decoration: none;
   font-size: 25px;
+  border: 0.3rem solid #402218;
+  background: #f4c7ab;
+  margin: 0 1.5rem;
 }
